@@ -1,4 +1,4 @@
-# KryptoTask
+# Stock Alert App
 
 Project Template
 
